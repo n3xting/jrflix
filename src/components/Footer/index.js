@@ -10,11 +10,7 @@ function Footer() {
         <img className="Logo" src={Logo} alt="Logo JrFlix" />
       </a>
       <p>
-        Orgulhosamente criado durante a
-        {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
-        </a>
+        © 2020 | <a href="github.com/n3xting"> n3xting</a>. Desenvolvido durante a quarentena
       </p>
     </FooterBase>
   );

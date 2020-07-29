@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
+      "titulo": "League of Legends",
+      "link": "https://www.twitch.tv/directory/game/League%20of%20Legends",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Gameplays de LoL",
+        "url": "https://www.twitch.tv/directory/game/League%20of%20Legends"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "A SOLOQ BRASILEIRA ACABOU? CASOS DO CENÁRIO EP.01",
+          "url": "https://www.youtube.com/watch?v=3_-fWXLTx1E"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COM KASSADIN NO TIME, A ESPERANÇA É A ÚLTIMA A MORRER",
+          "url": "https://www.youtube.com/watch?v=Y0SQZ_CTqpE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "FUI 'OBRIGADO' A JOGAR DE ZIGGS POR CAUSA DESSA SKIN",
+          "url": "https://www.youtube.com/watch?v=FuZEAcgEGqU"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "DE TABELA, JUKERA E RENEKTONZADA MAIS NERVOSO DO LEAGUE!",
+          "url": "https://www.youtube.com/watch?v=-YXtGwhTgso"
+        },
+        {
+          "titulo": "PROGRAMAÇÃO DE HOJE: RIVEN JUNGLE!",
+          "url": "https://www.youtube.com/watch?v=iz4N4EN5KAw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CABO O LOL",
+          "url": "https://www.youtube.com/watch?v=TQn7vQGKXm0&t=692s"
+        },
+        {
+          "titulo": "KEIO VS A BUILD PROIBIDA PARA RAMMUS",
+          "url": "https://www.youtube.com/watch?v=xGOixFDmQLQ"
+        }       
+      ]
+    },
+    {
+      "titulo": "Sea of Thieves",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Gameplays de Sea of Thieves",
+        "url": "https://www.twitch.tv/directory/game/Sea%20of%20Thieves"
+      },
+      "videos": [
+        {
+          "titulo": "O DIA QUE O YOLANDES FOI TROLLADO",
+          "url": "https://www.youtube.com/watch?v=JOTpmGiVLVM"
+        },
+        {
+          "titulo": "A LENDÁRIA TRIPULAÇÃO DE CAPITÃO MARCOS - EPISÓDIO 1",
+          "url": "https://www.youtube.com/watch?v=VCWPUG9R0TY&t=12s"
+        },
+        {
+          "titulo": "A YOESTRATÉGIA DE 400QI",
+          "url": "https://www.youtube.com/watch?v=UyMI2PndNdA"
+        },
+        {
+          "titulo": "SEA OF THIEVES: O INÍCIO DE UMA JORNADA EP. #1",
+          "url": "https://www.youtube.com/watch?v=QV-eTfYSnDo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Call of Duty: Modern Warfare",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Gameplays de COD",
+        "url": "https://www.twitch.tv/directory/game/Call%20of%20Duty%3A%20Modern%20Warfare"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "ESSE COMEÇO FOI INSANO!! OS INIMIGOS NÃO ENTENDERAM NADA!!",
+          "url": "https://www.youtube.com/watch?v=3ypEWIauS_s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "RECORDE BRASILEIRO FILA SOLO *36K* - MINHA MP7 É MÁGICA",
+          "url": "https://www.youtube.com/watch?v=K6ezCeyokfU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como não jogar o novo COD Warzone!",
+          "url": "https://www.youtube.com/watch?v=tD557bJAx-g"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Ai Jhonson... Ft. tecnosh",
+          "url": "https://www.youtube.com/watch?v=lVmUY8wODBE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "CSGO",
       "cor": "orange",
+      "link_extra": {
+        "text": "Gameplays de CSGO",
+        "url": "https://www.twitch.tv/directory/game/Counter-Strike%3A%20Global%20Offensive"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "PARTIDA DURÍSSIMA VS GAULES E FER",
+          "url": "https://www.youtube.com/watch?v=rNGKpDaxVxQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Fizemos o Fer tomar BAN ft Fnx, felps e Art",
+          "url": "https://www.youtube.com/watch?v=O-SV77YnWEU"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "TREMEU A MIRA NO X1 ESQUECE",
+          "url": "https://www.youtube.com/watch?v=PHyxOyXZkzk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "DEIXEI FAZER 15 E VIREI [ft. Boltz e VSM]",
+          "url": "https://www.youtube.com/watch?v=37RqhKbFfrQ"
+        },
+        {
+          "titulo": "ME BANIRAM DA FACEIT ??",
+          "url": "https://www.youtube.com/watch?v=4lOMVTuSOTU"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Playerunknown's Battlegrounds",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Gameplays de PUBG",
+        "url": "https://www.twitch.tv/directory/game/PLAYERUNKNOWN'S%20BATTLEGROUNDS"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "PRIMEIRA VEZ NA NOVA SANHOK 2.0",
+          "url": "https://www.youtube.com/watch?v=HYqqaOSIklU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "FUI CARREGADO POR UM VOVÔ",
+          "url": "https://www.youtube.com/watch?v=zJuafcOOuiE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A MELHOR JOGADA COM A QBU ft NETENHO",
+          "url": "https://www.youtube.com/watch?v=no0lHDc_CNI"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "SÓ CALL INSANA feat NETENHO TECNOSH E THUGFAAST",
+          "url": "https://www.youtube.com/watch?v=4FliKb-HVKQ"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "PORQUE EU TINHA PARADO DE JOGAR PUBG!? ft. F0rever",
+          "url": "https://www.youtube.com/watch?v=SW-SWpVgMK0"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Valorant",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Gameplays de Valorant",
+        "url": "https://www.twitch.tv/directory/game/VALORANT"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "ENCONTREI O CARA MAIS TILTADO DO RADIANTE? KKKKKKKK",
+          "url": "https://www.youtube.com/watch?v=aX-E3e-O4mY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "PEGUEI 30 KILLS NO JOGO MAIS DIFÍCIL DO RADIANTE?",
+          "url": "https://www.youtube.com/watch?v=PSQy7ZGwCbs"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "O CARA ME XINGOU E FOI STOMPADO!!",
+          "url": "https://www.youtube.com/watch?v=XNpowL5--Sg"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "CHAMAMOS O ALANZOKA PARA COMPLETAR O SQUAD ft. Paula Nobre",
+          "url": "https://www.youtube.com/watch?v=a5UvEdIaWtI"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "AULA DE PHOENIX NO VAVÁ! VITÓRIA DE VIRADA!",
+          "url": "https://www.youtube.com/watch?v=Ey5Ba3iHgmE"
+        },
+        {
+          "titulo":"O Iniesta do VALORANT",
+          "url":"https://www.youtube.com/watch?v=djFt2Sy8dhQ"
         }
       ]
     }

@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Grandes nomes do cenário de League of Legends brasileiro, Robo, Lord-semi, Mylon, Yoda, Ranger, Revolta, Djoko, Keio e Baiano, abrem a temporada de debates sobre o lolzinho no: Casos do Cenário!"}
       />
 
       <Carousel
