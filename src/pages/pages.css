@@ -1,0 +1,8 @@
+.Yoda {
+    max-width: 168px;
+  }
+  @media (max-width: 800px) {
+    .Yoda {
+      max-width: 105px;
+    }
+  }
